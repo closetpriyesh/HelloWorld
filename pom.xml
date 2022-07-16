@@ -15,7 +15,7 @@
                 <version>3.3.2</version>
             </plugin>
         </plugins>
-      <finalName>helloworld</finalName>
+      <!-- <finalName>helloworld</finalName> -->
     </build>
     <dependencies>
         <dependency>
